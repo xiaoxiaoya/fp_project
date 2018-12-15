@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GenRun Id="impl_1" LaunchPart="xc7a35tftg256-1" LaunchTime="1544841053">
+  <File Type="PWROPT-DCP" Name="v_dsbjq_pwropt.dcp"/>
+  <File Type="ROUTE-PWR" Name="v_dsbjq_power_routed.rpt"/>
+  <File Type="PA-TCL" Name="v_dsbjq.tcl"/>
+  <File Type="ROUTE-PWR-SUM" Name="v_dsbjq_power_summary_routed.pb"/>
+  <File Type="REPORTS-TCL" Name="v_dsbjq_reports.tcl"/>
+  <File Type="BG-DRC" Name="v_dsbjq.drc"/>
+  <File Type="OPT-METHODOLOGY-DRC" Name="v_dsbjq_methodology_drc_opted.rpt"/>
+  <File Type="INIT-TIMING" Name="v_dsbjq_timing_summary_init.rpt"/>
+  <File Type="OPT-HWDEF" Name="v_dsbjq.hwdef"/>
+  <File Type="OPT-DCP" Name="v_dsbjq_opt.dcp"/>
+  <File Type="OPT-DRC" Name="v_dsbjq_drc_opted.rpt"/>
+  <File Type="OPT-TIMING" Name="v_dsbjq_timing_summary_opted.rpt"/>
+  <File Type="PWROPT-DRC" Name="v_dsbjq_drc_pwropted.rpt"/>
+  <File Type="PWROPT-TIMING" Name="v_dsbjq_timing_summary_pwropted.rpt"/>
+  <File Type="PLACE-DCP" Name="v_dsbjq_placed.dcp"/>
+  <File Type="PLACE-IO" Name="v_dsbjq_io_placed.rpt"/>
+  <File Type="PLACE-CLK" Name="v_dsbjq_clock_utilization_placed.rpt"/>
+  <File Type="PLACE-UTIL" Name="v_dsbjq_utilization_placed.rpt"/>
+  <File Type="PLACE-UTIL-PB" Name="v_dsbjq_utilization_placed.pb"/>
+  <File Type="PLACE-CTRL" Name="v_dsbjq_control_sets_placed.rpt"/>
+  <File Type="PLACE-SIMILARITY" Name="v_dsbjq_incremental_reuse_placed.rpt"/>
+  <File Type="PLACE-PRE-SIMILARITY" Name="v_dsbjq_incremental_reuse_pre_placed.rpt"/>
+  <File Type="PLACE-TIMING" Name="v_dsbjq_timing_summary_placed.rpt"/>
+  <File Type="POSTPLACE-PWROPT-DCP" Name="v_dsbjq_postplace_pwropt.dcp"/>
+  <File Type="POSTPLACE-PWROPT-TIMING" Name="v_dsbjq_timing_summary_postplace_pwropted.rpt"/>
+  <File Type="PHYSOPT-DCP" Name="v_dsbjq_physopt.dcp"/>
+  <File Type="PHYSOPT-DRC" Name="v_dsbjq_drc_physopted.rpt"/>
+  <File Type="BG-BIT" Name="v_dsbjq.bit"/>
+  <File Type="PHYSOPT-TIMING" Name="v_dsbjq_timing_summary_physopted.rpt"/>
+  <File Type="ROUTE-ERROR-DCP" Name="v_dsbjq_routed_error.dcp"/>
+  <File Type="ROUTE-DCP" Name="v_dsbjq_routed.dcp"/>
+  <File Type="ROUTE-BLACKBOX-DCP" Name="v_dsbjq_routed_bb.dcp"/>
+  <File Type="ROUTE-DRC" Name="v_dsbjq_drc_routed.rpt"/>
+  <File Type="ROUTE-DRC-PB" Name="v_dsbjq_drc_routed.pb"/>
+  <File Type="BITSTR-MSK" Name="v_dsbjq.msk"/>
+  <File Type="ROUTE-DRC-RPX" Name="v_dsbjq_drc_routed.rpx"/>
+  <File Type="BG-BGN" Name="v_dsbjq.bgn"/>
+  <File Type="ROUTE-METHODOLOGY-DRC" Name="v_dsbjq_methodology_drc_routed.rpt"/>
+  <File Type="BITSTR-RBT" Name="v_dsbjq.rbt"/>
+  <File Type="ROUTE-METHODOLOGY-DRC-RPX" Name="v_dsbjq_methodology_drc_routed.rpx"/>
+  <File Type="BG-BIN" Name="v_dsbjq.bin"/>
+  <File Type="ROUTE-METHODOLOGY-DRC-PB" Name="v_dsbjq_methodology_drc_routed.pb"/>
+  <File Type="ROUTE-PWR-RPX" Name="v_dsbjq_power_routed.rpx"/>
+  <File Type="ROUTE-STATUS" Name="v_dsbjq_route_status.rpt"/>
+  <File Type="ROUTE-STATUS-PB" Name="v_dsbjq_route_status.pb"/>
+  <File Type="ROUTE-TIMINGSUMMARY" Name="v_dsbjq_timing_summary_routed.rpt"/>
+  <File Type="ROUTE-TIMING-PB" Name="v_dsbjq_timing_summary_routed.pb"/>
+  <File Type="ROUTE-TIMING-RPX" Name="v_dsbjq_timing_summary_routed.rpx"/>
+  <File Type="ROUTE-SIMILARITY" Name="v_dsbjq_incremental_reuse_routed.rpt"/>
+  <File Type="RDI-RDI" Name="v_dsbjq.vdi"/>
+  <File Type="ROUTE-CLK" Name="v_dsbjq_clock_utilization_routed.rpt"/>
+  <File Type="POSTROUTE-PHYSOPT-DCP" Name="v_dsbjq_postroute_physopt.dcp"/>
+  <File Type="POSTROUTE-PHYSOPT-BLACKBOX-DCP" Name="v_dsbjq_postroute_physopt_bb.dcp"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING" Name="v_dsbjq_timing_summary_postroute_physopted.rpt"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING-PB" Name="v_dsbjq_timing_summary_postroute_physopted.pb"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING-RPX" Name="v_dsbjq_timing_summary_postroute_physopted.rpx"/>
+  <File Type="BITSTR-NKY" Name="v_dsbjq.nky"/>
+  <File Type="BITSTR-BMM" Name="v_dsbjq_bd.bmm"/>
+  <File Type="BITSTR-MMI" Name="v_dsbjq.mmi"/>
+  <File Type="BITSTR-LTX" Name="debug_nets.ltx"/>
+  <File Type="BITSTR-LTX" Name="v_dsbjq.ltx"/>
+  <File Type="BITSTR-SYSDEF" Name="v_dsbjq.sysdef"/>
+  <File Type="WBT-USG" Name="usage_statistics_webtalk.html"/>
+  <FileSet Name="sources" Type="DesignSrcs" RelSrcDir="$PSRCDIR/sources_1">
+    <Filter Type="Srcs"/>
+    <File Path="$PSRCDIR/sources_1/new/v_dsbjq.v">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="DesignMode" Val="RTL"/>
+      <Option Name="TopModule" Val="v_dsbjq"/>
+      <Option Name="TopAutoSet" Val="TRUE"/>
+    </Config>
+  </FileSet>
+  <FileSet Name="constrs_in" Type="Constrs" RelSrcDir="$PSRCDIR/constrs_1">
+    <Filter Type="Constrs"/>
+    <File Path="$PSRCDIR/constrs_1/new/con_dsbjq.xdc">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="ConstrsType" Val="XDC"/>
+    </Config>
+  </FileSet>
+  <Strategy Version="1" Minor="2">
+    <StratHandle Name="Vivado Implementation Defaults" Flow="Vivado Implementation 2018">
+      <Desc>Default settings for Implementation.</Desc>
+    </StratHandle>
+    <Step Id="init_design"/>
+    <Step Id="opt_design"/>
+    <Step Id="power_opt_design"/>
+    <Step Id="place_design"/>
+    <Step Id="post_place_power_opt_design"/>
+    <Step Id="phys_opt_design"/>
+    <Step Id="route_design"/>
+    <Step Id="post_route_phys_opt_design"/>
+    <Step Id="write_bitstream">
+      <Option Id="BinFile">1</Option>
+    </Step>
+  </Strategy>
+</GenRun>

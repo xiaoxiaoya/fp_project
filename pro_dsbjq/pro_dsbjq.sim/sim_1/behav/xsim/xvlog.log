@@ -1,0 +1,6 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/project/fp_project/pro_dsbjq/pro_dsbjq.srcs/sources_1/new/v_dsbjq.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module v_dsbjq
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/project/fp_project/pro_dsbjq/pro_dsbjq.srcs/sim_1/new/sim_dsbjq.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module sim_dsbjq
+INFO: [VRFC 10-2458] undeclared symbol in_f, assumed default net type wire [D:/project/fp_project/pro_dsbjq/pro_dsbjq.srcs/sim_1/new/sim_dsbjq.v:28]
+WARNING: [VRFC 10-2292] extra semicolon is not allowed here in this dialect. Use SystemVerilog mode [D:/project/fp_project/pro_dsbjq/pro_dsbjq.srcs/sim_1/new/sim_dsbjq.v:32]
