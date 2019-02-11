@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2018.1 (64-bit)
+# SW Build 2188600 on Wed Apr  4 18:40:38 MDT 2018
+# IP Build 2185939 on Wed Apr  4 20:55:05 MDT 2018
+# Start of session at: Mon Feb 11 20:53:16 2019
+# Process ID: 6692
+# Current directory: D:/project/fp_project/add4_pro/add4_pro.runs/synth_1
+# Command line: vivado.exe -log add4_src.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source add4_src.tcl
+# Log file: D:/project/fp_project/add4_pro/add4_pro.runs/synth_1/add4_src.vds
+# Journal file: D:/project/fp_project/add4_pro/add4_pro.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source add4_src.tcl -notrace
