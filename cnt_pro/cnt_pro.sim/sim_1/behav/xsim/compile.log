@@ -1,0 +1,5 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/project/fp_project/cnt_pro/cnt_pro.srcs/sources_1/new/cnt_src.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module cnt_src
+WARNING: [VRFC 10-1315] redeclaration of ansi port out is not allowed [D:/project/fp_project/cnt_pro/cnt_pro.srcs/sources_1/new/cnt_src.v:28]
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/project/fp_project/cnt_pro/cnt_pro.srcs/sim_1/new/cnt_sim.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module cnt_sim

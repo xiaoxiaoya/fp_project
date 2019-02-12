@@ -1,0 +1,8 @@
+0.6
+2018.1
+Apr  4 2018
+19:30:32
+D:/project/fp_project/add8_pro/add8_pro.sim/sim_1/behav/xsim/glbl.v,1522801934,verilog,,,,glbl,,,,,,,,
+D:/project/fp_project/add8_pro/add8_pro.srcs/sim_1/new/add4_sim.v,1549980141,verilog,,,,add4_sim,,,,,,,,
+D:/project/fp_project/add8_pro/add8_pro.srcs/sources_1/new/add4_src.v,1549979655,verilog,,D:/project/fp_project/add8_pro/add8_pro.srcs/sources_1/new/adder_src.v,,add4_src,,,,,,,,
+D:/project/fp_project/add8_pro/add8_pro.srcs/sources_1/new/adder_src.v,1549979500,verilog,,D:/project/fp_project/add8_pro/add8_pro.srcs/sim_1/new/add4_sim.v,,adder_src,,,,,,,,

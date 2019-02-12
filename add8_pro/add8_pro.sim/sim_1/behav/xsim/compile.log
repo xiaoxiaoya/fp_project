@@ -1,0 +1,6 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/project/fp_project/add8_pro/add8_pro.srcs/sources_1/new/add4_src.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module add4_src
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/project/fp_project/add8_pro/add8_pro.srcs/sources_1/new/adder_src.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module adder_src
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/project/fp_project/add8_pro/add8_pro.srcs/sim_1/new/add4_sim.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module add4_sim
